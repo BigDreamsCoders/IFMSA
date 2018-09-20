@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+.gitattributes linguist-generated=true
+.gitignore linguist-generated=true
+
