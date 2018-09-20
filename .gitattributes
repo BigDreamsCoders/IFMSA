@@ -1,12 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 .gitattributes linguist-generated=true
 .gitignore linguist-generated=true
->>>>>>> e9bca83ebbb49cd815e6eacfe424b0f581bfe5eb
-=======
-.gitattributes linguist-generated=true
-.gitignore linguist-generated=true
->>>>>>> e9bca83ebbb49cd815e6eacfe424b0f581bfe5eb
+
+
